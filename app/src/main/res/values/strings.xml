@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SEUSL Green Army</string>
+
+    <string-array name="tasks_arrays">
+        <item>I planted a tree</item> <!-- 8 points -->
+        <item>I cleaned the beach</item> <!-- 10 points -->
+        <item>I cleaned the trash</item> <!-- 5 points -->
+        <item>I cleaned graffiti on walls</item> <!-- 6 points -->
+        <item>I restored a broken equipment</item> <!-- 7 points -->
+        <item>I cleaned the benches</item> <!-- 4 points -->
+        <item>I cleaned the sinks in the hostel</item> <!-- 9 points -->
+    </string-array>
+</resources>
